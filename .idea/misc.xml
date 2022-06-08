@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/drawable/ic_about.xml" value="0.145" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout-land/activity_facullty_item_layout.xml" value="0.1278324070115434" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout-land/activity_no_data_found.xml" value="0.1278324070115434" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout-land/test.xml" value="0.1900352733686067" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/activity_ebook.xml" value="0.13553943789664552" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/activity_full_image_view.xml" value="0.1" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/activity_pdfviewer.xml" value="0.13553943789664552" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/branch_items_layout.xml" value="0.21" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/drawer_header.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/ebook_item_layout.xml" value="0.25" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/faculty_item_layout.xml" value="0.25" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/fragment_about.xml" value="0.16" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/fragment_facullty.xml" value="0.25" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/fragment_gallery.xml" value="0.25" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/fragment_home.xml" value="0.18144750254842" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/fragment_notice.xml" value="0.13553943789664552" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/gallery.xml" value="0.15572916666666667" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/jjl.xml" value="0.10211748633879782" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/news_item_layout.xml" value="0.25" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/no_data_found.xml" value="0.10211748633879782" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/shimmer_for_ebook.xml" value="0.1" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/layout/test.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/menu/bottom_nav.xml" value="0.22447916666666667" />
+        <entry key="..\:/Android Studio/FirstApp/CollageApp/app/src/main/res/menu/drawer_navigation.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
