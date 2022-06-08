@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Collage App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about_Collage">Formerly a teacher’s college, Universitas Pendidikan Indonesia (UPI) is a comprehensive university that currently offers diverse fields such as educational sciences, education-based disciplines, religion, humanities, and social sciences, both pure and applied sciences. Given its wider mandate, UPI also grows in academic community the value of cross-fertilization of pure and applied disciplines. To develop its global competitiveness, the university has taken leading and outstanding as the motto. Leading means that UPI manages to become the cutting edge of educational innovations. Meanwhile, outstanding indicates the university competitiveness as a regionally and globally prominent higher education institution with its unique and distinctive characteristics and specialties.</string>
+</resources>
